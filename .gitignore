@@ -1,0 +1,15 @@
+/log/
+/statis/
+/discover-statis/
+
+.idea
+.DS_Store
+.history
+
+*.swp
+*.code-workspace
+
+.vscode/*
+*.bolt
+*.bolt.lock
+/vendor
